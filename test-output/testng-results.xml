@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-02T17:31:57 MSK" name="Default suite" finished-at="2025-10-02T17:32:35 MSK" duration-ms="37893">
+    <groups>
+    </groups>
+    <test started-at="2025-10-02T17:31:57 MSK" name="Default test" finished-at="2025-10-02T17:32:35 MSK" duration-ms="37893">
+      <class name="automationteststorewebsite.MyTestCase">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:automationteststorewebsite.MyTestCase@79d94571]" started-at="2025-10-02T17:31:57 MSK" name="mySetup" finished-at="2025-10-02T17:31:59 MSK" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="singUp()[pri:1, instance:automationteststorewebsite.MyTestCase@79d94571]" started-at="2025-10-02T17:31:59 MSK" name="singUp" finished-at="2025-10-02T17:32:11 MSK" duration-ms="11352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singUp -->
+        <test-method signature="Logout()[pri:2, instance:automationteststorewebsite.MyTestCase@79d94571]" started-at="2025-10-02T17:32:11 MSK" name="Logout" finished-at="2025-10-02T17:32:16 MSK" duration-ms="5027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="login()[pri:3, instance:automationteststorewebsite.MyTestCase@79d94571]" started-at="2025-10-02T17:32:16 MSK" name="login" finished-at="2025-10-02T17:32:17 MSK" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="AddItemToTheCart()[pri:4, instance:automationteststorewebsite.MyTestCase@79d94571]" started-at="2025-10-02T17:32:17 MSK" name="AddItemToTheCart" finished-at="2025-10-02T17:32:35 MSK" duration-ms="18664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemToTheCart -->
+      </class> <!-- automationteststorewebsite.MyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
